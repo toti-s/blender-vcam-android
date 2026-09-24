@@ -16,9 +16,7 @@ Use your phone as a handheld virtual camera in Blender. The app connects to the
 Live capture of the app driving Blender's camera over Wi-Fi — phone viewfinder and
 motion tracking on the phone, Blender on the desktop:
 
-<video src="https://raw.githubusercontent.com/toti-s/blender-vcam-android/main/media/blender-vcam-demo.mp4" controls width="720"></video>
-
-[Watch the demo video](media/blender-vcam-demo.mp4)
+[Watch the demo video](media/blender-vcam-demo.mp4) (plays in the browser, no download needed)
 
 ## Install
 
